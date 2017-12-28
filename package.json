@@ -1,0 +1,25 @@
+{
+  "name": "mean_stack_development",
+  "version": "1.0.0",
+  "description": "A sample Web Application developed using MEAN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanthpp/MEAN_Stack_Development.git"
+  },
+  "author": "Aswanth P P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswanthpp/MEAN_Stack_Development/issues"
+  },
+  "homepage": "https://github.com/aswanthpp/MEAN_Stack_Development#readme",
+   "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1"
+  }
+}
